@@ -1,0 +1,80 @@
+body {
+    display: grid;
+    grid-template-columns: 260px 1fr; /* Sidebar + content */
+    height: 100vh;
+    background: #0d0d0d;
+    color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Sidebar */
+.sidebar {
+    background: #121212;
+    display: grid ;
+    row-gap: 0.4rem;
+    padding: 0;
+    border-right: 1px solid #222;
+    overflow-y: auto;
+    height: 100vh;
+}
+
+.sidebar-title {
+    margin-bottom: 0;
+    color: #f5c518; 
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+
+.sidebar button {
+    width: 100%;
+    background: #1c1c1c;
+    border: none;
+   padding: 0;
+    color: white;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background .2s;
+    font-size: 0.8rem;
+}
+
+.sidebar button:hover {
+    background: #333;
+}
+
+.sidebar button.reset {
+    margin-top: 0;
+    background: #f5c518;
+    color: #000;
+    font-weight: bold;
+}
+
+.sidebar button.reset:hover {
+    background: #d4aa17;
+}
+
+/* Main Content */
+.content {
+    padding: 2rem;
+    overflow-y: auto;
+}
+
+.chart-description {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    color: #ccc;
+    line-height: 1.4;
+}
+
+/* Chart Container */
+.chart-container {
+    background: #181818;
+    border: 1px solid #2d2d2d;
+    
+    padding: 2rem 1rem 1rem 1rem;
+    border-radius: 8px;
+    height: 600px; 
+}

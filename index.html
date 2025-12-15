@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+ <aside class="sidebar">
+        <h2 class="sidebar-title">Genres</h2>
+
+        <button id="adultBtn">Adult</button>
+        <button id="dramaBtn">Drama</button>
+        <button id="comedyBtn">Comedy</button>
+        <button id="shortBtn">Short</button>
+        <button id="documentaryBtn">Documentary</button>
+        <button id="familyBtn">Family</button>
+        <button id="adventureBtn">Adventure</button>
+        <button id="actionBtn">Action</button>
+        <button id="unknownBtn">Unknown</button>
+        <button id="horrorBtn">Horror</button>
+        <button id="crimeBtn">Crime</button>
+        <button id="romanceBtn">Romance</button>
+        <button id="musicalBtn">Musical</button>
+        <button id="animationBtn">Animation</button>
+        <button id="biographyBtn">Biography</button>
+        <button id="thrillerBtn">Thriller</button>
+        <button id="fantasyBtn">Fantasy</button>
+
+        <button id="resetBtn" class="reset">Show All</button>
+    </aside>
+
+    <main class="content">
+        <p class="chart-description">
+            Explore some IMDb movies ratings by start year, number of votes, aaverage rating, nd genre.  
+            Select a genre on the left to focus on a genre. 
+        </p>
+
+        <div class="chart-container">
+            <canvas id="myChart"></canvas>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

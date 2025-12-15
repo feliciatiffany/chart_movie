@@ -1,0 +1,527 @@
+tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres
+tt0189567	movie	Halftime: Five Yale Men at Mid-life	Halftime: Five Yale Men at Mid-life	0	1989	\N	90	"Biography,Documentary"
+tt0189568	movie	Hard Sensation	Hard Sensation	1	1980	\N	86	"Adult,Thriller"
+tt0189570	video	Heartbeat	Heartbeat	0	1987	\N	65	"Drama,Musical,War"
+tt0189571	tvEpisode	psych	Alte Freunde	0	1995	\N	\N	"Comedy,Drama"
+tt0189572	tvEpisode	Sprung ins Glück	Sprung ins Glück	0	1995	\N	\N	"Comedy,Drama"
+tt0189573	movie	Heimweh	Heimweh	0	1927	\N	\N	Drama
+tt0189574	movie	Heroes of the Cross	Heroes of the Cross	0	1909	\N	\N	Drama
+tt0189575	movie	The Hidan of Maukbeiangjow	The Hidan of Maukbeiangjow	0	1973	\N	93	"Comedy,Crime,Drama"
+tt0189576	movie	High Energy	High Energy	0	1995	\N	60	"Biography,Documentary"
+tt0189577	movie	High Pockets	High Pockets	0	1919	\N	\N	"Drama,Western"
+tt0189578	movie	Veiled Hearts	Hjerter i slør	0	1992	\N	46	Drama
+tt0189579	movie	El hombre del año	El hombre del año	0	1970	\N	85	Comedy
+tt0189580	movie	Home Movies Ltd. 2	Home Movies Ltd. 2	1	1983	\N	84	Adult
+tt0189581	short	Honour Among Thieves	Honour Among Thieves	0	1915	\N	\N	"Crime,Drama,Short"
+tt0189582	movie	The Magic Hour	A Hora Mágica	0	1999	\N	103	"Comedy,Crime,Drama"
+tt0189583	movie	The Hour of Mary and the Bird of Gold	La hora de María y el pájaro de oro	0	1975	\N	105	Drama
+tt0189584	movie	The Big Kahuna	The Big Kahuna	0	1999	\N	90	"Comedy,Drama"
+tt0189585	movie	Hot Blooded	Hot Blooded	1	1985	\N	70	"Adult,Comedy"
+tt0189586	video	Hot Spa	Hot Spa	1	1984	\N	113	Adult
+tt0189587	short	Hotel	Hotel	0	1992	\N	\N	Short
+tt0189588	tvMovie	The House of Mirth	The House of Mirth	0	1981	\N	90	Drama
+tt0189589	movie	How to Enjoy Wine	How to Enjoy Wine	0	1984	\N	60	Documentary
+tt0189590	short	How's Your Poor Wife?	How's Your Poor Wife?	0	1917	\N	\N	"Comedy,Short"
+tt0189591	movie	Hoy canto para tí	Hoy canto para tí	0	1950	\N	\N	\N
+tt0189592	movie	Hum Aapke Dil Mein Rehte Hain	Hum Aapke Dil Mein Rehte Hain	0	1999	\N	168	"Drama,Romance"
+tt0189593	tvMovie	The Hunt for the Unicorn Killer	The Hunt for the Unicorn Killer	0	1999	\N	240	"Drama,Thriller"
+tt0189594	movie	Hurry! Kurama!	Hurry! Kurama!	0	1956	\N	90	\N
+tt0189595	movie	Hölle der Liebe - Erlebnisse aus einem Tanzpalast	Hölle der Liebe - Erlebnisse aus einem Tanzpalast	0	1926	\N	75	\N
+tt0189596	movie	I Am Curious Tahiti	I Am Curious Tahiti	0	1970	\N	85	Comedy
+tt0189597	movie	I Hear You Calling Me	I Hear You Calling Me	0	1919	\N	\N	Crime
+tt0189598	video	I Love L.A.	I Love L.A.	1	1986	\N	74	Adult
+tt0189599	video	I Love L.A. II	I Love L.A. II	1	1993	\N	\N	Adult
+tt0189600	short	I Remember Barbra	I Remember Barbra	0	1981	\N	23	"Documentary,Short"
+tt0189601	tvMovie	Ich hatte einen Traum	Ich hatte einen Traum	0	1980	\N	102	Family
+tt0189602	movie	A Ilha	A Ilha	0	1963	\N	97	"Adventure,Drama"
+tt0189603	movie	These Sorcerers Are Mad	Ils sont fous ces sorciers	0	1978	\N	96	"Comedy,Fantasy"
+tt0189604	movie	In This Corner	In This Corner	0	1948	\N	59	"Action,Drama,Romance"
+tt0189605	movie	In the Gloaming	In the Gloaming	0	1919	\N	\N	Drama
+tt0189606	movie	Los inconstantes	Los inconstantes	0	1962	\N	76	Drama
+tt0189607	movie	Incredible Journeys of Maui	Incredible Journeys of Maui	0	1994	\N	\N	\N
+tt0189608	movie	Indecent Exposure	Indecent Exposure	1	1981	\N	96	"Adult,Comedy"
+tt0189609	short	Innan det fortsätter	Innan det fortsätter	0	1998	\N	15	Short
+tt0189610	movie	Inside China Lee	Inside China Lee	1	1984	\N	79	Adult
+tt0189611	short	Instruments of Fate	Instruments of Fate	0	1915	\N	\N	"Crime,Drama,Short"
+tt0189612	tvMovie	An Interview with Dennis Potter	An Interview with Dennis Potter	0	1994	\N	70	Documentary
+tt0189613	video	Intimate Realities	Intimate Realities	1	1983	\N	\N	Adult
+tt0189614	tvSeries	Invention	Invention	0	1990	\N	\N	Documentary
+tt0189615	movie	It Ain't Easy	It Ain't Easy	0	1972	\N	90	"Action,Adventure,Sport"
+tt0189616	tvMovie	It Happened Next Year	It Happened Next Year	0	1996	\N	25	Comedy
+tt0189617	movie	Jack Levine: Feast of Pure Reason	Jack Levine: Feast of Pure Reason	0	1986	\N	59	"Biography,Documentary"
+tt0189618	short	Jackie McLean on Mars	Jackie McLean on Mars	0	1980	\N	31	"Documentary,Music,Short"
+tt0189619	short	Jazz Dance	Jazz Dance	0	1954	\N	22	"Documentary,Music,Short"
+tt0189620	movie	Jazz Is My Native Language: A Portrait of Toshiko Akiyoshi	Jazz Is My Native Language: A Portrait of Toshiko Akiyoshi	0	1983	\N	60	"Documentary,Music"
+tt0189621	movie	Jazz in the Magic City	Jazz in the Magic City	0	1985	\N	\N	Documentary
+tt0189622	short	Jenseits von klein Wanzleben	Jenseits von klein Wanzleben	0	1989	\N	41	"Documentary,Short"
+tt0189623	short	The Joke That Failed	The Joke That Failed	0	1917	\N	\N	"Comedy,Short"
+tt0189624	video	Joys of Erotica 112	Joys of Erotica 112	1	1984	\N	\N	Adult
+tt0189625	short	Judas	Juda	0	1972	\N	11	Short
+tt0189627	short	Just in Time	Just in Time	0	1915	\N	\N	"Comedy,Short"
+tt0189628	movie	Der Jäger von Fall	Der Jäger von Fall	0	1926	\N	\N	\N
+tt0189629	tvMovie	Here Comes the Bear!	Jön a medve!	0	1992	\N	46	"Comedy,Thriller"
+tt0189630	movie	Kadosh	Kadosh	0	1999	\N	110	"Comedy,Drama"
+tt0189631	tvMovie	Kalle der Träumer	Kalle der Träumer	0	1992	\N	25	\N
+tt0189632	movie	Getting Blue in Color	Kanashii iro yanen	0	1988	\N	102	"Action,Crime,Drama"
+tt0189633	movie	Kareeb	Kareeb	0	1998	\N	145	"Drama,Romance"
+tt0189634	movie	Africa Erotica: A Happening in Africa	Jungle Erotic	0	1970	\N	83	"Adventure,Drama"
+tt0189635	short	Kids Will Be Kids	Kids Will Be Kids	0	1954	\N	16	Short
+tt0189636	movie	King of Rain	King of Rain	0	2000	\N	\N	\N
+tt0189637	short	Der kleine Clown	Der kleine Clown	0	1985	\N	8	Short
+tt0189638	movie	Klopka	Klopka	0	1988	\N	96	Drama
+tt0189639	tvMovie	Kocár nejsvetejsí svátosti	Kocár nejsvetejsí svátosti	0	1962	\N	61	Comedy
+tt0189640	movie	Korol gor i drugiye	Korol gor i drugiye	0	1970	\N	75	Family
+tt0189641	movie	Krasnye listya	Krasnye listya	0	1958	\N	93	Drama
+tt0189642	tvMovie	Krauses Kneipe	Krauses Kneipe	0	1993	\N	30	Documentary
+tt0189643	movie	The Spasm	Krc	0	1979	\N	97	Drama
+tt0189644	tvMovie	Kuckuckskinder	Kuckuckskinder	0	1994	\N	90	Documentary
+tt0189646	movie	Københavns Karneval	Københavns Karneval	0	1983	\N	\N	\N
+tt0189647	movie	Ladrão de Bagdá	Ladrão de Bagdá	0	1976	\N	83	"Adventure,Comedy,Family"
+tt0189648	short	Lady Bag	Lady Bag	0	1992	\N	20	Short
+tt0189649	short	The Lady or the Tiger?	The Lady or the Tiger?	0	1942	\N	10	"Drama,Short"
+tt0189650	movie	The Lamp of Destiny	The Lamp of Destiny	0	1919	\N	\N	Drama
+tt0189651	short	The Inquisition	The Inquisition	0	1999	\N	16	"Drama,Short"
+tt0189652	short	"Laurent Lamerre, portier"	"Laurent Lamerre, portier"	0	1978	\N	16	"Documentary,Short"
+tt0189653	movie	Lena Warnstetten	Lena Warnstetten	0	1925	\N	\N	\N
+tt0189654	movie	O Libertino	O Libertino	0	1973	\N	86	Comedy
+tt0189655	movie	"Lights, Camera, Hacktion!"	"Lights, Camera, Hacktion!"	0	1997	\N	\N	Horror
+tt0189656	movie	El linyera	El linyera	0	1933	\N	90	Drama
+tt0189657	movie	Ljubezen	Ljubezen	0	1984	\N	94	"Drama,War"
+tt0189658	movie	Lola's Lolos	Les lolos de Lola	0	1976	\N	80	"Comedy,Romance"
+tt0189659	movie	"Loma, davitskebuli megobari"	"Loma, davitskebuli megobari"	0	1982	\N	75	Family
+tt0189660	movie	The Longest Summer	Hui nin yin fa dak bit doh	0	1998	\N	128	Drama
+tt0189661	tvEpisode	Edith Wharton: Looking Back	Edith Wharton: Looking Back	0	1981	\N	60	"Comedy,Drama,Music"
+tt0189662	video	Looking for Love	Looking for Love	1	1985	\N	72	Adult
+tt0189663	video	Loose Ends	Loose Ends	1	1985	\N	105	Adult
+tt0189664	video	Loose Lifestyles	Loose Lifestyles	1	1988	\N	\N	Adult
+tt0189665	short	Lost & Found	Lost & Found	0	1995	\N	\N	"Drama,Short"
+tt0189666	movie	Lost Angel	Lost Angel	1	1989	\N	\N	Adult
+tt0189667	videoGame	The Lost Vikings	The Lost Vikings	0	1992	\N	\N	"Adventure,Sci-Fi"
+tt0189668	movie	Lottery Fever	Lottery Fever	1	1986	\N	81	Adult
+tt0189669	video	Lottery Lu$t	Lottery Lu$t	1	1986	\N	83	Adult
+tt0189670	movie	Love Bell	Love Bell	1	1985	\N	\N	Adult
+tt0189671	movie	Love Button	Love Button	1	1985	\N	85	Adult
+tt0189672	movie	Love Lies	Love Lies	1	1988	\N	\N	Adult
+tt0189673	movie	Love Lips	Love Lips	1	1976	\N	88	"Adult,Romance"
+tt0189674	video	The Love Nest	The Love Nest	1	1989	\N	74	"Adult,Comedy,Drama"
+tt0189675	movie	The Love Scene	The Love Scene	1	1985	\N	\N	Adult
+tt0189676	movie	Love Theater	Love Theater	1	1985	\N	69	Adult
+tt0189677	video	Love on the Borderline	Love on the Borderline	1	1986	\N	83	Adult
+tt0189678	movie	A Lover for Susan	A Lover for Susan	1	1987	\N	90	Adult
+tt0189679	movie	Lovers Lane	Lovers Lane	1	1986	\N	72	"Adult,Romance"
+tt0189680	video	A Loving Bind	A Loving Bind	0	1986	\N	108	\N
+tt0189681	video	Low Blows	Low Blows	1	1989	\N	85	"Adult,Comedy"
+tt0189682	video	Lucy Has a Ball	Lucy Has a Ball	1	1986	\N	75	"Adult,Comedy"
+tt0189683	movie	Lucy Makes It Big	Lucy Makes It Big	1	1987	\N	\N	"Adult,Comedy"
+tt0189684	movie	Lunch	Lunch	1	1972	\N	71	Adult
+tt0189685	short	Lupino Brothers	Lupino Brothers	0	1995	\N	19	Short
+tt0189686	video	The Luscious Baker Girls	The Luscious Baker Girls	1	1990	\N	80	"Adult,Comedy"
+tt0189687	video	Luscious Lucy in Love	Luscious Lucy in Love	1	1986	\N	74	Adult
+tt0189688	video	Lust American Style	Lust American Style	1	1985	\N	\N	Adult
+tt0189689	movie	The Lust Bug	The Lust Bug	1	1985	\N	90	Adult
+tt0189690	video	The Lust Detector	The Lust Detector	1	1986	\N	74	"Adult,Comedy,Fantasy"
+tt0189691	video	Lust Italian Style	Lust Italian Style	1	1987	\N	93	"Adult,Drama,Romance"
+tt0189692	video	The Lust Potion of Doctor F	The Lust Potion of Doctor F	1	1986	\N	89	Adult
+tt0189693	movie	Stephanie's Lust Story	Stephanie's Lust Story	1	1982	\N	79	Adult
+tt0189694	movie	Lust Weekend	Lust Weekend	1	1988	\N	83	"Adult,Romance"
+tt0189695	video	Lust at Sea	Lust at Sea	1	1986	\N	72	Adult
+tt0189696	video	Lust at the Top	Lust at the Top	1	1985	\N	82	Adult
+tt0189697	video	Lust in America	Lust in America	1	1985	\N	79	"Adult,Drama"
+tt0189698	movie	Lusty	Lusty	1	1986	\N	\N	Adult
+tt0189699	video	Lusty Desires	Lusty Desires	1	1987	\N	\N	Adult
+tt0189700	movie	Lusty Layout	Lusty Layout	1	1986	\N	84	Adult
+tt0189701	tvMovie	"Lyon, Inside Out"	"Lyon, le regard intérieur"	0	1988	\N	57	Documentary
+tt0189702	movie	Mad About You	Mad About You	1	1987	\N	\N	Adult
+tt0189703	movie	Mad Love	Mad Love	1	1989	\N	81	"Adult,Fantasy,Horror"
+tt0189704	video	Magic Fingers	Magic Fingers	1	1987	\N	84	Adult
+tt0189705	video	The Magic Touch	The Magic Touch	1	1985	\N	82	"Adult,Fantasy"
+tt0189706	short	Big Fantasy	Magnafantagna	0	1987	\N	\N	Short
+tt0189707	video	The Main Attraction	The Main Attraction	1	1988	\N	85	"Adult,Thriller"
+tt0189708	movie	Main Street of Paris	Main Street of Paris	0	1939	\N	\N	\N
+tt0189709	movie	Main Theme	Mein têma	0	1984	\N	101	"Comedy,Drama,Romance"
+tt0189710	movie	Make Me Want It	Make Me Want It	1	1985	\N	82	Adult
+tt0189711	movie	Make My Night	Make My Night	1	1985	\N	83	"Adult,Comedy"
+tt0189712	movie	The Making of a Mosque	The Making of a Mosque	0	1986	\N	26	Documentary
+tt0189713	video	Man of the Year	Man of the Year	1	1991	\N	75	Adult
+tt0189714	movie	Mardi Gras	Mardi Gras	1	1986	\N	\N	Adult
+tt0189715	movie	Mardi Gras Passions	Mardi Gras Passions	1	1987	\N	78	Adult
+tt0189716	movie	Marie Antoinette - Das Leben einer Königin	Marie Antoinette - Das Leben einer Königin	0	1922	\N	137	"Drama,History"
+tt0189717	movie	Mariposas S.A.	Mariposas S.A.	0	1986	\N	\N	\N
+tt0189718	movie	You Are Sexually Invited to a 'Masqued Ball'	You Are Sexually Invited to a 'Masqued Ball'	1	1973	\N	\N	Adult
+tt0189719	movie	Masterpiece	Masterpiece	1	1990	\N	77	"Adult,Comedy,Romance"
+tt0189720	video	The Master of Pleasure	The Master of Pleasure	1	1988	\N	\N	Adult
+tt0189721	video	Material Girl	Material Girl	1	1986	\N	79	Adult
+tt0189723	tvMovie	Der Maulkorb	Der Maulkorb	0	1997	\N	90	Comedy
+tt0189724	movie	Max Bedroom	Max Bedroom	1	1988	\N	93	Adult
+tt0189725	video	Meet Ray Harley	Meet Ray Harley	1	1997	\N	77	Adult
+tt0189726	video	Memoires of a Chamber Maid	Memoires of a Chamber Maid	1	1987	\N	85	"Adult,Drama,Fantasy"
+tt0189727	movie	Memorial Day	Memorial Day	0	1999	\N	81	Horror
+tt0189728	short	Men of Timor	Men of Timor	0	1942	\N	8	"Documentary,Short"
+tt0189729	movie	Mercado negro	Mercado negro	0	1953	\N	83	Crime
+tt0189730	video	Miami Vice Girls	Miami Vice Girls	1	1986	\N	70	Adult
+tt0189731	movie	Mich dürstet	Mich dürstet	0	1956	\N	95	"Drama,War"
+tt0189732	short	Les mickeys	Les mickeys	0	1994	\N	36	Short
+tt0189733	movie	Midnight Blue 2	Midnight Blue 2	1	1980	\N	82	Adult
+tt0189734	video	Midnight Fire	Midnight Fire	1	1990	\N	84	Adult
+tt0189735	movie	Midnight Zone	Midnight Zone	1	1990	\N	87	Adult
+tt0189736	short	Mighty Like a Moose	Mighty Like a Moose	0	1926	\N	22	"Comedy,Family,Romance"
+tt0189737	video	Mile High Girls	Mile High Girls	1	1987	\N	\N	Adult
+tt0189738	video	Military Men	Military Men	1	1994	\N	\N	"Adult,Documentary"
+tt0189739	video	Mimi	Mimi	1	1987	\N	114	"Adult,Romance"
+tt0189740	movie	Mingus: Charlie Mingus 1968	Mingus: Charlie Mingus 1968	0	1968	\N	58	"Documentary,Music"
+tt0189741	movie	Future Memories: Last Christmas	Mirai no omoide: Last Christmas	0	1992	\N	118	"Romance,Sci-Fi"
+tt0189742	movie	Misadventures of the Bang Gang	Misadventures of the Bang Gang	1	1987	\N	81	Adult
+tt0189743	movie	Mischief in the Mansion	Mischief in the Mansion	1	1989	\N	\N	Adult
+tt0189744	movie	Miss Julie	Miss Julie	0	1999	\N	103	Drama
+tt0189745	short	The Missing Link	The Missing Link	0	1917	\N	\N	"Comedy,Short"
+tt0189746	tvMovie	Missing Parents	Missing Parents	0	1994	\N	31	\N
+tt0189747	video	Mistaken Identity	Mistaken Identity	1	1990	\N	\N	Adult
+tt0189748	video	Mister Billion's Dollar Babies	Mr. Billion's Dollar Babies 1	1	1988	\N	106	Adult
+tt0189749	movie	Misteri Kebun Tebu	Misteri Kebun Tebu	0	1997	\N	\N	"Crime,Drama,Thriller"
+tt0189750	movie	Mix-n-Match	Mix-n-Match	1	1985	\N	\N	Adult
+tt0189751	movie	Moans & Groans	Moans & Groans	1	1987	\N	\N	Adult
+tt0189752	video	Model Behaviour	Model Behaviour	1	1996	\N	\N	Adult
+tt0189753	movie	Las modelos	Las modelos	0	1963	\N	85	Drama
+tt0189754	tvMovie	"Moffengriet - Liebe tut, was sie will"	"Moffengriet - Liebe tut, was sie will"	0	1990	\N	113	Drama
+tt0189756	short	"Molim, nasmesite se"	"Molim, nasmesite se"	0	1974	\N	11	Short
+tt0189758	movie	Monique	Monique	0	1970	\N	88	"Comedy,Drama,Romance"
+tt0189759	short	Monk in Oslo	Monk in Oslo	0	1966	\N	33	"Documentary,Music,Short"
+tt0189760	short	Peintres et artistes montmartrois	Peintres et artistes montmartrois	0	1950	\N	20	"Documentary,Short"
+tt0189761	video	Moonlusting II	Moonlusting II	1	1987	\N	\N	Adult
+tt0189762	movie	A Moreninha	A Moreninha	0	1970	\N	96	"Musical,Romance"
+tt0189763	movie	Ichimatsu Travels with Ghosts	Mori no Ishimatsu yûrei dôchû	0	1959	\N	88	"Comedy,History"
+tt0189764	movie	Rebirth of Mothra III	Mosura 3: Kingu Gidora raishu	0	1998	\N	99	"Action,Adventure,Fantasy"
+tt0189765	video	Motel Sweets	Motel Sweets	1	1987	\N	88	"Adult,Comedy"
+tt0189766	short	Motherhood	Motherhood	0	1917	\N	\N	"Drama,Short"
+tt0189767	short	Donald's Dynamite: Opera Box	Mouseworks Opera Box	0	1999	\N	2	"Animation,Comedy,Family"
+tt0189768	movie	Mouth to Mouth	Mouth to Mouth	1	1988	\N	\N	Adult
+tt0189769	movie	Mouthful of Love	Mouthful of Love	1	1993	\N	78	Adult
+tt0189770	movie	Mrtva ladja	Mrtva ladja	0	1971	\N	84	"Horror,Mystery,Romance"
+tt0189771	movie	Mujeres sin mañana	Mujeres sin mañana	0	1951	\N	115	Drama
+tt0189772	movie	The Wall	Le mur	0	1967	\N	91	Drama
+tt0189773	tvMovie	My Aunt in Drumcondra	My Aunt in Drumcondra	0	1994	\N	\N	\N
+tt0189774	video	My Bare Lady	My Bare Lady	1	1989	\N	85	"Adult,Musical"
+tt0189775	video	My Best Buddy	My Best Buddy	1	1988	\N	80	Adult
+tt0189777	movie	"My Son, My Son"	"My Son, My Son"	0	1918	\N	\N	Drama
+tt0189778	video	My Surrender	My Surrender	1	1996	\N	82	"Adult,Drama,Romance"
+tt0189779	movie	Mystery of the Golden Lotus	Mystery of the Golden Lotus	1	1989	\N	100	Adult
+tt0189780	movie	Mystery Mister Ra	Mystery Mister Ra	0	1984	\N	51	"Documentary,Music"
+tt0189781	movie	Mãos Vazias	Mãos Vazias	0	1971	\N	80	Drama
+tt0189782	movie	Mästarnas match - Ingo vs. Floyd	Mästarnas match - Ingo vs. Floyd	0	1959	\N	77	Documentary
+tt0189783	tvMovie	Die Mörderin	Die Mörderin	0	1999	\N	89	Crime
+tt0189784	movie	Die Mühle von Sanssouci	Die Mühle von Sanssouci	0	1926	\N	\N	\N
+tt0189785	movie	Iguassu: The Devil's Throat	Na Garganta do Diabo	0	1960	\N	100	Drama
+tt0189786	short	Na nebu zvezda Danica	Na nebu zvezda Danica	0	1971	\N	30	"Drama,Short"
+tt0189787	movie	Nada más que amor	Nada más que amor	0	1942	\N	\N	Romance
+tt0189788	movie	The Naked Bun	The Naked Bun	1	1989	\N	\N	Adult
+tt0189789	movie	Naked Scents	Naked Scents	1	1985	\N	85	Adult
+tt0189791	movie	Zoando na TV	Zoando na TV	0	1999	\N	90	"Comedy,Family,Fantasy"
+tt0189792	movie	Nasty Newshounds	Nasty Newshounds	1	1987	\N	79	"Adult,Comedy"
+tt0189793	movie	A Natural Woman	A Natural Woman	1	1988	\N	71	Adult
+tt0189794	movie	Naughty Girls in Heat	Naughty Girls in Heat	1	1986	\N	\N	Adult
+tt0189795	movie	Naughty Nanette	Naughty Nanette	1	1985	\N	80	"Adult,Comedy"
+tt0189796	movie	Whirlpool of Passion	Necista krv	0	1996	\N	125	Drama
+tt0189797	movie	I've Never Stolen in My Life	Nem loptam én életemben	0	1939	\N	90	Comedy
+tt0189798	movie	Never Enough	Never Enough	1	1971	\N	59	"Adult,Crime"
+tt0189799	movie	Never Sleep Alone	Never Sleep Alone	1	1984	\N	94	"Adult,Drama"
+tt0189800	movie	New Sensations	New Sensations	1	1990	\N	73	Adult
+tt0189801	movie	The New York City Woman	The New York City Woman	1	1977	\N	74	Adult
+tt0189802	movie	Hidden Desire	Ngo wai hing kwong	0	1991	\N	88	Drama
+tt0189803	video	The Night Before	The Night Before	1	1987	\N	67	"Adult,Comedy,Romance"
+tt0189804	video	Night Crawlers	Night Crawlers	0	1996	\N	90	Horror
+tt0189805	video	Night Force	Night Force	1	1992	\N	81	Adult
+tt0189806	video	The Night of the Headhunter	The Night of the Headhunter	1	1985	\N	75	Adult
+tt0189807	video	The Night Temptress	The Night Temptress	1	1990	\N	106	"Adult,Fantasy,Romance"
+tt0189808	video	Night on the Wild Side	Night on the Wild Side	1	1986	\N	79	"Adult,Drama,Mystery"
+tt0189809	movie	O País dos Tenentes	O País dos Tenentes	0	1987	\N	85	Drama
+tt0189810	movie	No Tomorrow	No Tomorrow	0	1999	\N	99	"Action,Thriller"
+tt0189811	movie	No Trains No Planes	No Trains No Planes	0	1999	\N	105	Drama
+tt0189812	movie	Something Like It	No yohna mono	0	1981	\N	103	"Comedy,Romance"
+tt0189813	short	A Noite Cheirava Mal	A Noite Cheirava Mal	0	1999	\N	6	"Animation,Short"
+tt0189814	movie	Men and Women	Noite Vazia	0	1964	\N	93	Drama
+tt0189816	movie	Normal Joe	Normal Joe	0	1998	\N	\N	\N
+tt0189817	movie	Nos va la marcha	Nos va la marcha	0	1979	\N	\N	"Documentary,Musical"
+tt0189818	short	Notturno	Notturno	0	1950	\N	18	"Documentary,Short"
+tt0189819	short	La novelletta	La novelletta	0	1937	\N	\N	"Documentary,Short"
+tt0189820	short	The Golden Wedding	Nozze d'oro	0	1911	\N	21	"Drama,Short"
+tt0189822	movie	Nozze fassane	Nozze fassane	0	1955	\N	\N	Documentary
+tt0189823	tvMovie	Nucleo zero	Nucleo zero	0	1984	\N	180	"Drama,Thriller"
+tt0189824	movie	"Nude, calde e pure"	"Nude, calde e pure"	0	1965	\N	\N	Documentary
+tt0189825	movie	Nudi per vivere	Nudi per vivere	0	1963	\N	93	Documentary
+tt0189826	movie	Nudista à Força	Nudista à Força	0	1966	\N	101	"Comedy,Crime"
+tt0189827	movie	Naked and Cruel 2	Nudo e crudele 2	0	1985	\N	\N	Documentary
+tt0189828	movie	"Nudo, crudo e..."	"Nudo, crudo e..."	0	1965	\N	80	Documentary
+tt0189830	movie	Il numero 121	Il numero 121	0	1917	\N	\N	\N
+tt0189831	short	The New Little Mother	La nuova mammina	0	1909	\N	\N	Short
+tt0189832	short	Nutman's Got the Blues: Cyrus Chestnut Solo Piano	Nutman's Got the Blues: Cyrus Chestnut Solo Piano	0	1997	\N	15	"Documentary,Music,Short"
+tt0189833	video	Nutt Busters	Nutt Busters	1	1990	\N	61	Adult
+tt0189834	video	Nutt Crackers	Nutt Crackers	1	1992	\N	68	Adult
+tt0189835	tvMovie	Näin tehtiin Häjyt	Näin tehtiin Häjyt	0	1999	\N	28	Documentary
+tt0189836	movie	Obbligo di giocare - Zugzwang	Obbligo di giocare - Zugzwang	0	1989	\N	83	"Crime,Mystery,Thriller"
+tt0189837	video	Obession	Obession	1	1988	\N	\N	Adult
+tt0189838	movie	Obsession	Obsession	1	1985	\N	79	Adult
+tt0189839	movie	"Occhei, occhei"	"Occhei, occhei"	0	1983	\N	92	Comedy
+tt0189840	movie	Occhio alla vedova!	Occhio alla vedova!	0	1975	\N	94	Comedy
+tt0189841	movie	"Occhio nero, occhio biondo e occhio felino"	"Occhio nero, occhio biondo e occhio felino"	0	1983	\N	90	"Crime,Drama,Mystery"
+tt0189842	movie	Odette	Odette	0	1916	\N	\N	Drama
+tt0189843	movie	Mein Leben für das Deine	Mein Leben für das Deine	0	1928	\N	\N	Drama
+tt0189844	movie	Odia il prossimo tuo	Odia il prossimo tuo	0	1968	\N	88	"Action,Drama,Western"
+tt0189845	movie	The Black Invaders	Odio mortale	0	1962	\N	89	Adventure
+tt0189846	short	Homer's Odyssey	L'Odissea	0	1911	\N	44	"Adventure,Drama,Fantasy"
+tt0189847	movie	Odore di pioggia	Odore di pioggia	0	1989	\N	94	Comedy
+tt0189848	movie	Odore di spigo	Odore di spigo	0	1990	\N	\N	Drama
+tt0189849	movie	The Maverick	Odpadnik	0	1988	\N	95	"Action,Crime"
+tt0189850	short	Oedipus Rex	Edipo Re	0	1910	\N	10	"Drama,Short"
+tt0189851	video	Office Girls	Office Girls	1	1989	\N	86	"Adult,Comedy,Romance"
+tt0189852	movie	Lost and Found	Oggetti smarriti	0	1980	\N	110	"Comedy,Drama"
+tt0189853	movie	Ohh La La	Ohh La La	1	1984	\N	\N	Adult
+tt0189854	movie	The Old Country	The Old Country	0	1921	\N	\N	Drama
+tt0189855	video	Older Women with Young Boys	Older Women with Young Boys	1	1985	\N	85	Adult
+tt0189856	movie	Olé: Um Movie Cabra da Peste	Olé: Um Movie Cabra da Peste	0	2000	\N	94	Comedy
+tt0189857	movie	Ombre	Ombre	0	1980	\N	94	"Drama,Horror,Mystery"
+tt0189858	video	On Your Honor	On Your Honor	1	1989	\N	86	"Adult,Romance"
+tt0189859	video	On the Loose	On the Loose	1	1988	\N	74	"Adult,Romance"
+tt0189860	video	On the Prowl	On the Prowl	1	1989	\N	65	"Adult,Documentary"
+tt0189861	video	Once Upon a Temptress	Once Upon a Temptress	1	1988	\N	80	"Adult,Drama,Mystery"
+tt0189862	movie	Once to Every Man	Once to Every Man	0	1918	\N	\N	Drama
+tt0189863	movie	One Night at a Time	One Night at a Time	1	1984	\N	82	"Adult,Comedy,Romance"
+tt0189864	movie	One of the Best	One of the Best	0	1927	\N	\N	"Crime,Drama,Mystery"
+tt0189865	movie	From the Other Side	Onkraj	0	1970	\N	77	Drama
+tt0189866	video	Only the Very Best on Film	Only the Very Best on Film	1	1993	\N	110	Adult
+tt0189867	movie	Opklada Mr. Greena	Opklada Mr. Greena	0	1971	\N	\N	\N
+tt0189868	movie	Oral Addiction	Oral Addiction	1	1989	\N	73	Adult
+tt0189869	video	Oral Ecstasy 3	Oral Ecstasy 3	1	1988	\N	60	Adult
+tt0189870	movie	Oriental Baby Sitter	Oriental Baby Sitter	1	1977	\N	71	Adult
+tt0189871	movie	Oriental Jade	Oriental Jade	1	1985	\N	83	Adult
+tt0189872	movie	Oriental Lesbian Fantasies	Oriental Lesbian Fantasies	1	1984	\N	82	Adult
+tt0189873	movie	Oriental Taboo	Oriental Taboo	1	1985	\N	84	Adult
+tt0189874	movie	"Oui, Girls"	"Oui, Girls"	1	1982	\N	79	"Adult,Drama,Romance"
+tt0189875	movie	Our Major Is... Sex!	Our Major Is... Sex!	1	1984	\N	73	"Adult,Comedy"
+tt0189876	movie	Our Naked Eyes	Our Naked Eyes	1	1987	\N	\N	Adult
+tt0189877	tvEpisode	Out of Step	Out of Step	0	1984	\N	\N	"Adventure,Comedy,Drama"
+tt0189878	movie	The Out-of-Towner	The Out-of-Towner	1	1987	\N	71	Adult
+tt0189879	short	Out of the Box	Out of the Box	0	1942	\N	11	"Documentary,Short"
+tt0189880	video	Outlaw Ladies: Part II	Outlaw Ladies: Part II	1	1988	\N	84	Adult
+tt0189881	video	Outrageous Foreplay	Outrageous Foreplay	1	1987	\N	\N	Adult
+tt0189882	video	Outrageous Orgies 3	Outrageous Orgies 3	1	1988	\N	60	Adult
+tt0189883	video	Oversexed	Oversexed	1	1986	\N	81	"Adult,Comedy,Sci-Fi"
+tt0189885	movie	Pain Suite	Pain Suite	1	1985	\N	60	Adult
+tt0189886	movie	Paixão e Sombras	Paixão e Sombras	0	1977	\N	98	Drama
+tt0189887	movie	The Palace of Angels	O Palácio dos Anjos	0	1970	\N	96	Drama
+tt0189888	movie	Papai Trapalhão	Papai Trapalhão	0	1968	\N	89	Comedy
+tt0189889	movie	"Paraíba, Vida e Morte de um Bandido"	"Paraíba, Vida e Morte de um Bandido"	0	1966	\N	84	"Crime,Drama"
+tt0189890	short	Paris	Paris	0	1951	\N	\N	"Documentary,Short"
+tt0189891	video	Paris Burnning	Paris Burnning	1	1989	\N	\N	Adult
+tt0189892	movie	Paris Models	Paris Models	1	1987	\N	\N	Adult
+tt0189893	short	An Adventurous Automobile Trip	Le Raid Paris-Monte Carlo en deux heures	0	1905	\N	10	"Adventure,Short"
+tt0189894	movie	Parted Lips	Parted Lips	1	1986	\N	87	Adult
+tt0189895	video	Parting Shots	Parting Shots	1	1989	\N	85	"Adult,Romance"
+tt0189896	movie	Partners in Crime	Partners in Crime	1	1988	\N	71	Adult
+tt0189897	movie	Party Doll	Party Doll	1	1991	\N	\N	Adult
+tt0189898	movie	Party in the Rear	Party in the Rear	1	1989	\N	\N	Adult
+tt0189899	movie	A Passage thru Pamela	A Passage thru Pamela	1	1985	\N	80	"Adult,Comedy,Drama"
+tt0189900	movie	The Passion Within	The Passion Within	1	1987	\N	\N	Adult
+tt0189901	movie	Passion by Fire	Passion by Fire	1	1986	\N	\N	Adult
+tt0189902	movie	Passionate Lips	Passionate Lips	1	1990	\N	63	Adult
+tt0189904	movie	Pátria e Bandeira	Pátria e Bandeira	0	1918	\N	\N	War
+tt0189905	movie	Paul Cadmus: Enfant Terrible at 80	Paul Cadmus: Enfant Terrible at 80	0	1984	\N	64	"Biography,Documentary"
+tt0189906	movie	The Pearl Divers	The Pearl Divers	1	1988	\N	\N	Adult
+tt0189907	short	Peasant Island	Peasant Island	0	1940	\N	\N	"Documentary,Short"
+tt0189908	movie	Peeping Tom	Peeping Tom	1	1986	\N	86	"Adult,Comedy"
+tt0189909	movie	The Perfect Brat	The Perfect Brat	1	1989	\N	\N	Adult
+tt0189910	video	Perfect Partners	Perfect Partners	1	1985	\N	75	Adult
+tt0189911	movie	The Perfect Weekend	The Perfect Weekend	1	1984	\N	\N	Adult
+tt0189912	video	Performance	Performance	1	1990	\N	78	Adult
+tt0189913	video	The Performers	The Performers	1	1986	\N	80	Adult
+tt0189914	movie	Personals	Personals	1	1972	\N	90	"Adult,Documentary"
+tt0189915	movie	Petronella - Das Geheimnis der Berge	Petronella - Das Geheimnis der Berge	0	1927	\N	\N	Drama
+tt0189916	movie	Maybe	Peut-être	0	1999	\N	109	"Comedy,Drama,Sci-Fi"
+tt0189917	movie	The Priest from Kirchfeld	Der Pfarrer von Kirchfeld	0	1926	\N	\N	\N
+tt0189918	movie	Phantom X	Phantom X	1	1989	\N	\N	Adult
+tt0189919	movie	The Phantom of the Cabaret II	The Phantom of the Cabaret II	1	1989	\N	\N	"Adult,Drama,Romance"
+tt0189920	movie	The Phantom of the Cabaret	The Phantom of the Cabaret	1	1989	\N	81	Adult
+tt0189921	tvMovie	Philippe Soupault	Philippe Soupault	0	1982	\N	57	Documentary
+tt0189922	video	Phone-Mates	Phone-Mates	1	1988	\N	79	"Adult,Comedy"
+tt0189923	video	Phone Sex Girls: Australia	Phone Sex Girls: Australia	1	1989	\N	72	Adult
+tt0189924	video	Phone Sex Fantasies: Volume 1	Phone Sex Fantasies: Volume 1	1	1985	\N	\N	Adult
+tt0189926	movie	Piger er en plage!	Piger er en plage!	0	1990	\N	\N	\N
+tt0189927	short	Pimple's Lady Godiva	Pimple's Lady Godiva	0	1917	\N	\N	"Comedy,Short"
+tt0189928	short	Pimple's Pitter-Patter	Pimple's Pitter-Patter	0	1917	\N	\N	"Comedy,Short"
+tt0189929	short	Pimple's Romance	Pimple's Romance	0	1917	\N	\N	"Comedy,Short"
+tt0189930	short	Pimple's Storyette	Pimple's Storyette	0	1915	\N	\N	"Comedy,Short"
+tt0189931	short	Pimple's the Woman Who Did	Pimple's the Woman Who Did	0	1917	\N	\N	"Comedy,Short"
+tt0189932	short	Plane Crazy	Plane Crazy	0	1933	\N	20	"Comedy,Musical,Short"
+tt0189933	short	Plastic Surgery in Wartime	Plastic Surgery in Wartime	0	1941	\N	\N	"Documentary,Short"
+tt0189934	tvEpisode	Ball der einsamen Herzen	Ball der einsamen Herzen	0	1990	\N	80	"Crime,Drama,Mystery"
+tt0189935	tvEpisode	Laß mich nicht im Stich	Laß mich nicht im Stich	0	1985	\N	77	"Crime,Drama,Mystery"
+tt0189936	tvEpisode	Schellekloppe	Schellekloppe	0	1999	\N	90	"Crime,Drama,Mystery"
+tt0189937	movie	Porno Baby	Porno Baby	0	1970	\N	75	Drama
+tt0189938	movie	Sex Files: Portrait of the Soul	Sex Files: Portrait of the Soul	0	1998	\N	91	"Horror,Mystery"
+tt0189939	tvMovie	Poseta stare dame	Poseta stare dame	0	1976	\N	88	Drama
+tt0189940	movie	Ktor me yerkinq	Ktor me yerkinq	0	1980	\N	92	"Comedy,Drama,Romance"
+tt0189941	movie	Pousse Cafe	Pousse Cafe	0	1997	\N	105	"Comedy,Drama"
+tt0189942	movie	Povest o 'Neistovom'	Povest o 'Neistovom'	0	1947	\N	86	"Drama,War"
+tt0189943	short	Povoljan vetar	Povoljan vetar	0	1979	\N	3	Short
+tt0189944	movie	Poyezd do Bruklina	Poyezd do Bruklina	0	1998	\N	91	Action
+tt0189945	movie	Prairie Station	Paren iz taygi	0	1941	\N	82	\N
+tt0189946	movie	Pravo ottsov	Pravo ottsov	0	1931	\N	\N	Drama
+tt0189948	movie	"La prima notte del Dottor Danieli, industriale, col complesso del... giocattolo"	"La prima notte del Dottor Danieli, industriale, col complesso del... giocattolo"	0	1970	\N	93	Comedy
+tt0189949	movie	"Santa Gertrudis, la première question sur le bonheur"	"Santa Gertrudis, la première question sur le bonheur"	0	1978	\N	101	Documentary
+tt0189950	movie	O Prisioneiro do Sexo	O Prisioneiro do Sexo	0	1978	\N	92	Drama
+tt0189951	movie	Los problemas de papá	Los problemas de papá	0	1954	\N	75	"Comedy,Drama"
+tt0189952	movie	Forbidden to Step on Clouds	Prohibido pisar las nubes	0	1970	\N	83	\N
+tt0189953	movie	Puzzles of Blue	Puzzles of Blue	0	1997	\N	\N	\N
+tt0189954	movie	Ordinary Heroes	Qian yan wan yu	0	1999	\N	128	Drama
+tt0189955	short	Queen Cotton	Queen Cotton	0	1941	\N	14	"Documentary,Short"
+tt0189956	movie	¡Qué hermanita!	¡Qué hermanita!	0	1951	\N	\N	\N
+tt0189957	movie	Raffles	Raffles	1	1992	\N	80	Adult
+tt0189958	short	Sink	O Ralo	0	1999	\N	16	"Comedy,Short"
+tt0189959	movie	The Raw Ones	The Raw Ones	0	1965	\N	75	Documentary
+tt0189960	movie	The Heart's Root	A Raiz do Coração	0	2000	\N	118	Drama
+tt0189961	short	Reklamacija	Reklamacija	0	1979	\N	3	Short
+tt0189962	movie	Renee Rosnes: Jazz Pianist	Renee Rosnes: Jazz Pianist	0	1997	\N	45	"Documentary,Music"
+tt0189963	tvMovie	Der Mörder meiner Mutter	Der Mörder meiner Mutter	0	1999	\N	93	Thriller
+tt0189964	movie	Revelação	Revelação	0	1929	\N	\N	Drama
+tt0189965	movie	Riffraff	Riffraff	0	2005	\N	127	\N
+tt0189966	video	Risque Burlesque II	Risque Burlesque II	1	1996	\N	107	"Adult,Comedy"
+tt0189967	movie	Knights of the Night	Ritter der Nacht	0	1928	\N	\N	\N
+tt0189968	video	Rockey X	Rockey X	1	1986	\N	83	"Adult,Drama,Sport"
+tt0189969	video	The Rocky Porno Video Show	The Rocky Porno Video Show	1	1986	\N	89	"Adult,Comedy,Sci-Fi"
+tt0189970	movie	Der rosa Diamant	Der rosa Diamant	0	1926	\N	\N	Comedy
+tt0189971	movie	Le rouge de Chine	Le rouge de Chine	0	1979	\N	80	Fantasy
+tt0189973	movie	Lupin the 3rd: Crisis in Tokyo	Rupan sansei: Honô no kioku Tokyo Crisis	0	1998	\N	95	"Action,Animation,Comedy"
+tt0189974	tvMovie	Lupin III: Island of Assassins	Rupan sansei: Walther P38	0	1997	\N	93	"Action,Adventure,Animation"
+tt0189975	movie	S.T.A.B.	S.T.A.B.	0	1973	\N	100	"Action,Adventure"
+tt0189976	movie	La salación	La salación	0	1965	\N	77	Comedy
+tt0189977	movie	Sammyville	Sammyville	0	1999	\N	94	Drama
+tt0189978	movie	The Wild Growth	Samorastniki	0	1963	\N	90	Drama
+tt0189979	movie	"San Andrés, isla de ensueño"	"San Andrés, isla de ensueño"	0	1962	\N	90	\N
+tt0189980	video	Saturday Night Beaver II	Saturday Night Beaver II	1	1993	\N	\N	Adult
+tt0189981	movie	Scarfies	Scarfies	0	1999	\N	94	"Action,Comedy,Thriller"
+tt0189982	short	Schritte des anderen	Schritte des anderen	0	1987	\N	25	Short
+tt0189983	tvMovie	Der Schwierige	Der Schwierige	0	1991	\N	\N	\N
+tt0189984	movie	The Scottish Covenanters	The Scottish Covenanters	0	1909	\N	55	"Drama,History"
+tt0189985	short	Scottish Mazurka	Scottish Mazurka	0	1943	\N	17	"Documentary,Music,Short"
+tt0189986	tvMovie	Seascape	Seascape	0	1994	\N	\N	\N
+tt0189987	movie	Backstage Pass	Secrets of Stage Five	1	1983	\N	60	Adult
+tt0189988	movie	Secrets of the Nazi Criminals	Krigsförbrytare	0	1962	\N	57	"Documentary,War"
+tt0189989	movie	Sensi caldi	Sensi caldi	0	1980	\N	80	"Comedy,Drama"
+tt0189990	movie	Sensual Escape	Sensual Escape	1	1988	\N	80	"Adult,Fantasy,Romance"
+tt0189991	short	Sensuous Singles: Sandi Taylor	Sensuous Singles: Sandi Taylor	1	1987	\N	30	"Adult,Short"
+tt0189992	movie	"Service, Israel"	"Service, Israel"	0	1982	\N	\N	Documentary
+tt0189993	movie	Severnaya povest	Severnaya povest	0	1960	\N	77	"Biography,Drama,History"
+tt0189994	video	Sex Academy	Sex Academy	1	1993	\N	108	Adult
+tt0189995	video	Sexbusters!	Sexbusters!	1	1984	\N	80	"Adult,Comedy"
+tt0189996	movie	Shacking Up	Shacking Up	1	1985	\N	79	Adult
+tt0189997	movie	Shadow Game	Shadow Game	0	2001	\N	\N	\N
+tt0189998	movie	Shadow of the Vampire	Shadow of the Vampire	0	2000	\N	92	"Drama,Horror"
+tt0189999	movie	Sharing the Secret	Sharing the Secret	0	1981	\N	\N	Documentary
+tt0190001	movie	Come on Girls!	Shibugakitai: Boys and Girls	0	1982	\N	78	\N
+tt0190002	movie	"Si bleu, si calme"	"Si bleu, si calme"	0	1996	\N	80	Documentary
+tt0190003	movie	Die Silbermöve	Die Silbermöve	0	1922	\N	\N	\N
+tt0190004	movie	Silk Satin Sex	Silk Satin Sex	1	1983	\N	81	Adult
+tt0190005	short	Since '45	Since '45	0	1979	\N	29	"Documentary,Short"
+tt0190006	movie	Amazon Symphony	Sinfonia Amazônica	0	1951	\N	75	"Animation,Family"
+tt0190007	short	Sister Susie's Sewing Shirts for Soldiers	Sister Susie's Sewing Shirts for Soldiers	0	1917	\N	\N	"Comedy,Short"
+tt0190008	movie	Sixteen Tongues	Sixteen Tongues	0	1999	\N	80	"Horror,Sci-Fi"
+tt0190009	movie	Sizzling Summer	Sizzling Summer	1	1984	\N	80	Adult
+tt0190010	short	Skifascination	Skifascination	0	1966	\N	44	"Documentary,Short"
+tt0190011	movie	Skyscraper	Skyscraper	0	1965	\N	\N	\N
+tt0190012	movie	Blood Slaves of the Vampire Wolf	Blood Slaves of the Vampire Wolf	0	1996	\N	105	Horror
+tt0190013	short	Small Timers	Small Timers	0	1929	\N	\N	"Comedy,Musical,Short"
+tt0190014	movie	The Snail	The Snail	0	1918	\N	\N	"Comedy,Drama"
+tt0190015	short	Snare	Snare	0	1998	\N	20	"Short,Thriller"
+tt0190016	tvMovie	So schnell es geht nach Istanbul	So schnell es geht nach Istanbul	0	1991	\N	43	\N
+tt0190017	movie	The Soap Girl	The Soap Girl	0	1918	\N	50	"Comedy,Drama"
+tt0190018	movie	Social Ambition	Social Ambition	0	1918	\N	\N	Drama
+tt0190019	movie	Soft as Silk Sweet as Honey	Soft as Silk... Sweet as Honey	1	1984	\N	72	Adult
+tt0190020	movie	Some Place New	Some Place New	0	1999	\N	87	\N
+tt0190021	movie	Sommertage	Sommertage	0	1990	\N	45	\N
+tt0190022	movie	A Son of Strife	A Son of Strife	0	1918	\N	\N	Drama
+tt0190023	short	Sonny Rollins: Live at Loren	Sonny Rollins: Live at Loren	0	1973	\N	36	"Documentary,Music,Short"
+tt0190024	movie	Sorceress II: The Temptress	Sorceress II: The Temptress	0	1997	\N	82	"Fantasy,Horror,Thriller"
+tt0190025	movie	For Business	Sorobanzuku	0	1986	\N	109	Comedy
+tt0190026	movie	Sounds of Sex	Sounds of Sex	1	1985	\N	82	Adult
+tt0190027	movie	Southpaw	Southpaw: The Francis Barrett Story	0	1999	\N	77	"Documentary,Sport"
+tt0190028	tvEpisode	Massage	Massage	0	1995	\N	50	"Drama,Fantasy,Horror"
+tt0190029	movie	The Sperminator	The Sperminator	1	1985	\N	78	Adult
+tt0190031	movie	The Spreading Evil	The Spreading Evil	0	1918	\N	\N	Drama
+tt0190032	movie	"What Is with You, Nina?"	"Sta je s tobom, Nina"	0	1984	\N	99	Drama
+tt0190033	movie	Staking His Life	Staking His Life	0	1918	\N	50	"Drama,Western"
+tt0190034	movie	Stand By	Stand By	0	1991	\N	85	Drama
+tt0190035	short	Stand by Your Booth	Stand by Your Booth	0	1998	\N	24	Short
+tt0190036	video	Star Cuts 59: Karen Summers	Star Cuts 59: Karen Summers	1	1987	\N	30	"Adult,Short"
+tt0190037	short	A Star Is Shorn	A Star Is Shorn	0	1939	\N	19	"Comedy,Short"
+tt0190038	movie	The Star Prince	The Star Prince	0	1918	\N	54	"Drama,Family,Fantasy"
+tt0190040	video	Stephanie's Outrageous	Stephanie's Outrageous	1	1988	\N	71	Adult
+tt0190041	movie	Stolen Hours	Stolen Hours	0	1918	\N	50	Drama
+tt0190042	tvMovie	Stowaway	Stowaway	0	1985	\N	\N	\N
+tt0190043	video	Street Smarts: Sex Ed 5	Street Smarts: Sex Ed 5	1	1997	\N	\N	Adult
+tt0190044	movie	The Street of Seven Stars	The Street of Seven Stars	0	1918	\N	\N	Drama
+tt0190045	movie	Streetwise	Streetwise	0	1998	\N	115	"Action,Crime,Thriller"
+tt0190046	short	Stuffie	Stuffie	0	1940	\N	10	"Comedy,Short"
+tt0190047	short	Subitamente no Verão Passado	Subitamente no Verão Passado	0	1999	\N	\N	Short
+tt0190048	movie	Suburbio	Suburbio	0	1951	\N	93	Drama
+tt0190049	movie	Sumpf und Moral	Sumpf und Moral	0	1925	\N	\N	\N
+tt0190050	movie	Super Seka	Super Seka	1	1985	\N	\N	Adult
+tt0190051	movie	Surcos en el mar	Surcos en el mar	0	1956	\N	73	Drama
+tt0190052	movie	Surrender	Surrender	0	2000	\N	94	"Drama,Fantasy,Romance"
+tt0190053	movie	Suspicions	Suspicions	0	1995	\N	83	"Horror,Mystery,Thriller"
+tt0190054	movie	El sátiro	El sátiro	0	1970	\N	80	Comedy
+tt0190055	movie	Tala med mig systrar	Tala med mig systrar	0	1999	\N	80	Documentary
+tt0190056	movie	Tangled Lives	Tangled Lives	0	1918	\N	50	Drama
+tt0190057	movie	Tara Maldita	Tara Maldita	0	1982	\N	80	\N
+tt0190058	movie	Taste of the Best	Taste of the Best	1	1988	\N	87	Adult
+tt0190059	short	Tattoo	Tattoo	0	1977	\N	17	"Documentary,Short"
+tt0190060	movie	The Tattoo Connection	E yu tou hei sha xing	0	1978	\N	90	"Action,Crime,Drama"
+tt0190061	movie	La telaraña	La telaraña	0	1954	\N	\N	\N
+tt0190062	movie	Tem Folga na Direção	Tem Folga na Direção	0	1976	\N	90	Comedy
+tt0190063	tvEpisode	10 Million Dollar Sheriff Part 1	10 Million Dollar Sheriff Part 1	0	1981	\N	51	"Action,Comedy"
+tt0190064	movie	Ghost Story of Two Travelers at Tenamonya	Tenamonya yurei dochu	0	1967	\N	90	Horror
+tt0190065	movie	The Tender Warrior	The Tender Warrior	0	1971	\N	85	Adventure
+tt0190066	movie	Terminale	Terminale	0	1998	\N	\N	Drama
+tt0190067	short	The Terrible Two Had	The Terrible Two Had	0	1915	\N	\N	"Comedy,Short"
+tt0190068	movie	They Call Me Sugar Candie	They Call Me Sugar Candie	1	1989	\N	71	Adult
+tt0190069	short	This Is Colour	This Is Colour	0	1942	\N	18	"Documentary,Short"
+tt0190070	movie	The Thundercloud	The Thundercloud	0	1919	\N	\N	"Crime,Drama"
+tt0190071	movie	The Tidal Wave	The Tidal Wave	0	1918	\N	\N	Drama
+tt0190072	movie	A Tight Delight	A Tight Delight	1	1984	\N	68	"Adult,Romance"
+tt0190073	movie	Timeless	Timeless	0	2000	\N	\N	\N
+tt0190074	movie	To so gadi	To so gadi	0	1977	\N	96	"Comedy,Family"
+tt0190075	movie	Deaths in Tokimeki	Tokimeki ni shisu	0	1984	\N	105	"Crime,Drama"
+tt0190076	videoGame	Tomb Raider III: Adventures of Lara Croft	Tomb Raider III: Adventures of Lara Croft	0	1998	\N	\N	"Action,Adventure,Fantasy"
+tt0190077	short	Tommy's	Tommy's	0	1985	\N	15	Short
+tt0190078	video	Tounge Twisters	Tongue Twisters	1	1986	\N	\N	Adult
+tt0190079	movie	Touch Me in the Morning	Touch Me in the Morning	1	1982	\N	76	"Adult,Drama"
+tt0190080	short	Tracking the Sleeping Death	Tracking the Sleeping Death	0	1938	\N	10	"Mystery,Short"
+tt0190081	movie	Trail of the Mounties	Trail of the Mounties	0	1947	\N	45	"Drama,Western"
+tt0190082	movie	Le traité du hasard	Le traité du hasard	0	1998	\N	95	"Comedy,Drama"
+tt0190083	movie	The Transgressor	The Transgressor	0	1918	\N	80	Drama
+tt0190084	movie	Treason	Treason	0	1918	\N	\N	Drama
+tt0190085	tvMovie	Treasure	Treasure	0	1997	\N	85	Adventure
+tt0190086	video	Treasure Box	Treasure Box	1	1985	\N	\N	Adult
+tt0190087	video	Treasure Box II	Treasure Box II	1	1993	\N	\N	Adult
+tt0190088	tvMovie	The Treaty	The Treaty	0	1991	\N	107	"Drama,History"
+tt0190089	movie	As Três Mulheres de Casanova	As Três Mulheres de Casanova	0	1968	\N	85	Comedy
+tt0190090	movie	Tres miradas a la calle	Tres miradas a la calle	0	1957	\N	80	\N
+tt0190091	short	Tricky Chicks	Tricky Chicks	0	1957	\N	16	"Comedy,Short"
+tt0190092	movie	Three Contributions to the Slovenian Madness	Trije prispevki k slovenski blaznosti	0	1983	\N	100	Drama
+tt0190093	video	Triplets	Triplets	1	1985	\N	60	Adult
+tt0190094	movie	The Triumph of Venus	The Triumph of Venus	0	1918	\N	\N	Fantasy
+tt0190095	tvMiniSeries	The Truth About Claire	The Truth About Claire	0	1990	1990	25	"Biography,Documentary,Drama"
+tt0190096	tvMovie	Two of Hearts	Two of Hearts	0	1999	\N	95	"Comedy,Romance"
+tt0190097	short	Two Saplings	Two Saplings	0	1943	\N	19	"Comedy,Short"
+tt0190098	short	Two Seasons	Two Seasons	0	1998	\N	16	"Drama,Short"
+tt0190100	movie	Two-Gun Betty	Two-Gun Betty	0	1918	\N	50	"Comedy,Western"
+tt0190101	movie	U sredini mojih dana	U sredini mojih dana	0	1988	\N	85	Drama
+tt0190102	tvMovie	"Um Passo, Outro Passo e Depois..."	"Um Passo, Outro Passo e Depois..."	0	1991	\N	58	\N
+tt0190104	movie	Unbelievable Orgies	Unbelievable Orgies	1	1987	\N	74	Adult
+tt0190105	movie	Under Suspicion	Under Suspicion	0	1919	\N	\N	Drama
+tt0190106	tvSeries	Undressed	Undressed	0	1999	2002	30	"Comedy,Drama"
+tt0190107	tvMovie	Un'australiana a Roma	Un'australiana a Roma	0	1987	\N	98	Comedy
+tt0190108	movie	Unexpected Places	Unexpected Places	0	1918	\N	50	"Comedy,Drama"
+tt0190110	movie	The Universal Mind of Bill Evans	The Universal Mind of Bill Evans	0	1966	\N	45	"Documentary,Music"
+tt0190111	short	Unrelated Relations	Unrelated Relations	0	1936	\N	19	"Comedy,Short"
+tt0190113	movie	The Uphill Path	The Uphill Path	0	1918	\N	\N	Drama
+tt0190114	movie	Top Stripper	(Hon) uwasa no sutorippâ	0	1982	\N	67	"Comedy,Drama"
+tt0190115	movie	Vegas Nights	Vegas Nights	0	1948	\N	60	Documentary
