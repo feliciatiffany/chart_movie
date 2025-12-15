@@ -1,6 +1,7 @@
 const chart = document.getElementById('myChart').getContext('2d');
 
 // hold the Chart.js instance to make it interactive, with button and stuff
+let interactiveChart;
 
 //loading dataa
 async function loadData() {
@@ -87,7 +88,7 @@ loadData().then(datasets => {
                 // chart title
                 title: {
                     display: true,
-                    text: 'Start Year vs Num Votes (Bubble ∝ Avg Rating)',
+                    text: 'Start Year vs Num Votes ( Avg Rating)',
                 },
                 // legend info to help read with color
                 legend: {
