@@ -36,4 +36,4 @@ The project uses IMDb dataset containing movie information including:
 
 ## Year
 
-2024
+2025
